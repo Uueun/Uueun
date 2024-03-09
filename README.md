@@ -9,6 +9,9 @@
 
 <h2>💻 Project 💻</h2>
 
+#### [traveller](https://github.com/Uueun/SemiProject_traveler) : 여행 상품 판매 사이트
+#### [Ticket24]((https://github.com/Uueun/FinalProject_ticket24)
+
 <br>
 
 <h2>📚 Tech Stack 📚</h2>
