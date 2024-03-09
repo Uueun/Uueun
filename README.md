@@ -41,13 +41,6 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 <br>
 
-#
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uueun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uueun&layout=compact&theme=Demo)
-
 </div>
 <!--
 **Uueun/Uueun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
