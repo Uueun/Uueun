@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Welcome%20to%20Eunseo's%20Profile&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 
-<h3>👋Hi, I'm Eunseo Choi👋</h3>
-### Hi there 
+<h3>👋Hi! it's me👋</h3>
+
+#### Email : mimineh2@naver.com
+#### Velog : [velog.io/@mimineh2](https://velog.io/@mimineh2/posts)
 
 </div>
 <!--
