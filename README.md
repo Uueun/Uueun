@@ -1,10 +1,14 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Eunseo's%20Profile&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 
-<h2>👋Hi! It's me👋</h2>
+<h2>👋 Hi! It's me 👋</h2>
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@mimineh2)](https://velog.io/@mimineh2)
 [![Email](http://img.shields.io/badge/-mimineh2@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:mimineh2@naver.com)](mailto:mimineh2@naver.com)
+<br>
+<h2>💻 Project 💻</h2>
+
+<h2>📚 Tech Stack 📚</h2>
 
 </div>
 <!--
