@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=It's%20me%20EUNSEO&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Welcome%20to%20Eunseo's%20Profile&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 
-### Hi there 👋
+<h3>👋Hi, I'm Eunseo Choi👋</h3>
+### Hi there 
 
+</div>
 <!--
 **Uueun/Uueun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
